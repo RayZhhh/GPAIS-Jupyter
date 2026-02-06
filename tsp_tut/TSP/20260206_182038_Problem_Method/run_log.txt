@@ -1,0 +1,141 @@
+[2026-02-06 11:23:57] profile.py(249) : ====================================================================
+[2026-02-06 11:23:57] profile.py(250) : LLM Parameters
+[2026-02-06 11:23:57] profile.py(251) : --------------------------------------------------------------------
+[2026-02-06 11:23:57] profile.py(252) :   - LLM: HttpsApi
+[2026-02-06 11:23:57] profile.py(255) :   - do_auto_trim: True
+[2026-02-06 11:23:57] profile.py(255) :   - debug_mode: False
+[2026-02-06 11:23:57] profile.py(255) :   - _host: api.bltcy.ai
+[2026-02-06 11:23:57] profile.py(255) :   - _key: sk-dHvAGxNBt11jP9QqdOJse7YjA59h5BHTSS2zWaJZT9e2Ltws
+[2026-02-06 11:23:57] profile.py(255) :   - _model: gpt-4o-mini
+[2026-02-06 11:23:57] profile.py(255) :   - _timeout: 60
+[2026-02-06 11:23:57] profile.py(255) :   - _kwargs: {}
+[2026-02-06 11:23:57] profile.py(255) :   - _cumulative_error: 0
+[2026-02-06 11:23:57] profile.py(256) : ====================================================================
+[2026-02-06 11:23:57] profile.py(257) : Problem Parameters
+[2026-02-06 11:23:57] profile.py(258) : --------------------------------------------------------------------
+[2026-02-06 11:23:57] profile.py(259) :   - Problem: TSPEval
+[2026-02-06 11:23:57] profile.py(262) :   - task_description: 
+[2026-02-06 11:23:57] profile.py(262) :   - use_numba_accelerate: False
+[2026-02-06 11:23:57] profile.py(262) :   - use_protected_div: False
+[2026-02-06 11:23:57] profile.py(262) :   - protected_div_delta: 1e-05
+[2026-02-06 11:23:57] profile.py(262) :   - random_seed: None
+[2026-02-06 11:23:57] profile.py(262) :   - timeout_seconds: 20
+[2026-02-06 11:23:57] profile.py(262) :   - exec_code: True
+[2026-02-06 11:23:57] profile.py(262) :   - safe_evaluate: True
+[2026-02-06 11:23:57] profile.py(262) :   - daemon_eval_process: False
+[2026-02-06 11:23:57] profile.py(262) :   - fork_proc: auto
+[2026-02-06 11:23:57] profile.py(264) : ====================================================================
+[2026-02-06 11:23:57] profile.py(265) : Method Parameters
+[2026-02-06 11:23:57] profile.py(266) : --------------------------------------------------------------------
+[2026-02-06 11:23:57] profile.py(267) :   - Method: EoH
+[2026-02-06 11:23:57] profile.py(271) :   - _max_generations: 10
+[2026-02-06 11:23:57] profile.py(271) :   - _max_sample_nums: 20
+[2026-02-06 11:23:57] profile.py(271) :   - _pop_size: 5
+[2026-02-06 11:23:57] profile.py(271) :   - _selection_num: 2
+[2026-02-06 11:23:57] profile.py(271) :   - _use_e2_operator: True
+[2026-02-06 11:23:57] profile.py(271) :   - _use_m1_operator: True
+[2026-02-06 11:23:57] profile.py(271) :   - _use_m2_operator: True
+[2026-02-06 11:23:57] profile.py(271) :   - _num_samplers: 4
+[2026-02-06 11:23:57] profile.py(271) :   - _num_evaluators: 4
+[2026-02-06 11:23:57] profile.py(271) :   - _resume_mode: False
+[2026-02-06 11:23:57] profile.py(271) :   - _debug_mode: False
+[2026-02-06 11:23:57] profile.py(271) :   - _multi_thread_or_process_eval: thread
+[2026-02-06 11:23:57] profile.py(271) :   - _function_to_evolve_name: select_next_node
+[2026-02-06 11:23:57] profile.py(271) :   - _tot_sample_nums: 0
+[2026-02-06 11:23:57] profile.py(271) :   - _initial_sample_nums_max: 10
+[2026-02-06 11:23:57] profile.py(271) :   - _evaluation_executor: <concurrent.futures.thread.ThreadPoolExecutor object at 0x1064c1c50>
+[2026-02-06 11:23:57] profile.py(273) : =====================================================================
+[2026-02-06 11:25:28] profile.py(249) : ====================================================================
+[2026-02-06 11:25:28] profile.py(250) : LLM Parameters
+[2026-02-06 11:25:28] profile.py(251) : --------------------------------------------------------------------
+[2026-02-06 11:25:28] profile.py(252) :   - LLM: HttpsApi
+[2026-02-06 11:25:28] profile.py(255) :   - do_auto_trim: True
+[2026-02-06 11:25:28] profile.py(255) :   - debug_mode: False
+[2026-02-06 11:25:28] profile.py(255) :   - _host: api.bltcy.ai
+[2026-02-06 11:25:28] profile.py(255) :   - _key: sk-dHvAGxNBt11jP9QqdOJse7YjA59h5BHTSS2zWaJZT9e2Ltws
+[2026-02-06 11:25:28] profile.py(255) :   - _model: gpt-4o-mini
+[2026-02-06 11:25:28] profile.py(255) :   - _timeout: 60
+[2026-02-06 11:25:28] profile.py(255) :   - _kwargs: {}
+[2026-02-06 11:25:28] profile.py(255) :   - _cumulative_error: 0
+[2026-02-06 11:25:28] profile.py(256) : ====================================================================
+[2026-02-06 11:25:28] profile.py(257) : Problem Parameters
+[2026-02-06 11:25:28] profile.py(258) : --------------------------------------------------------------------
+[2026-02-06 11:25:28] profile.py(259) :   - Problem: TSPEval
+[2026-02-06 11:25:28] profile.py(262) :   - task_description: 
+[2026-02-06 11:25:28] profile.py(262) :   - use_numba_accelerate: False
+[2026-02-06 11:25:28] profile.py(262) :   - use_protected_div: False
+[2026-02-06 11:25:28] profile.py(262) :   - protected_div_delta: 1e-05
+[2026-02-06 11:25:28] profile.py(262) :   - random_seed: None
+[2026-02-06 11:25:28] profile.py(262) :   - timeout_seconds: 20
+[2026-02-06 11:25:28] profile.py(262) :   - exec_code: True
+[2026-02-06 11:25:28] profile.py(262) :   - safe_evaluate: True
+[2026-02-06 11:25:28] profile.py(262) :   - daemon_eval_process: False
+[2026-02-06 11:25:28] profile.py(262) :   - fork_proc: auto
+[2026-02-06 11:25:28] profile.py(264) : ====================================================================
+[2026-02-06 11:25:28] profile.py(265) : Method Parameters
+[2026-02-06 11:25:28] profile.py(266) : --------------------------------------------------------------------
+[2026-02-06 11:25:28] profile.py(267) :   - Method: EoH
+[2026-02-06 11:25:28] profile.py(271) :   - _max_generations: 10
+[2026-02-06 11:25:28] profile.py(271) :   - _max_sample_nums: 20
+[2026-02-06 11:25:28] profile.py(271) :   - _pop_size: 5
+[2026-02-06 11:25:28] profile.py(271) :   - _selection_num: 2
+[2026-02-06 11:25:28] profile.py(271) :   - _use_e2_operator: True
+[2026-02-06 11:25:28] profile.py(271) :   - _use_m1_operator: True
+[2026-02-06 11:25:28] profile.py(271) :   - _use_m2_operator: True
+[2026-02-06 11:25:28] profile.py(271) :   - _num_samplers: 4
+[2026-02-06 11:25:28] profile.py(271) :   - _num_evaluators: 4
+[2026-02-06 11:25:28] profile.py(271) :   - _resume_mode: False
+[2026-02-06 11:25:28] profile.py(271) :   - _debug_mode: False
+[2026-02-06 11:25:28] profile.py(271) :   - _multi_thread_or_process_eval: thread
+[2026-02-06 11:25:28] profile.py(271) :   - _function_to_evolve_name: select_next_node
+[2026-02-06 11:25:28] profile.py(271) :   - _tot_sample_nums: 0
+[2026-02-06 11:25:28] profile.py(271) :   - _initial_sample_nums_max: 10
+[2026-02-06 11:25:28] profile.py(271) :   - _evaluation_executor: <concurrent.futures.thread.ThreadPoolExecutor object at 0x17ffa8cd0>
+[2026-02-06 11:25:28] profile.py(273) : =====================================================================
+[2026-02-06 11:27:34] profile.py(249) : ====================================================================
+[2026-02-06 11:27:34] profile.py(250) : LLM Parameters
+[2026-02-06 11:27:34] profile.py(251) : --------------------------------------------------------------------
+[2026-02-06 11:27:34] profile.py(252) :   - LLM: HttpsApi
+[2026-02-06 11:27:34] profile.py(255) :   - do_auto_trim: True
+[2026-02-06 11:27:34] profile.py(255) :   - debug_mode: False
+[2026-02-06 11:27:34] profile.py(255) :   - _host: api.bltcy.ai
+[2026-02-06 11:27:34] profile.py(255) :   - _key: sk-dHvAGxNBt11jP9QqdOJse7YjA59h5BHTSS2zWaJZT9e2Ltws
+[2026-02-06 11:27:34] profile.py(255) :   - _model: gpt-5-nano
+[2026-02-06 11:27:34] profile.py(255) :   - _timeout: 60
+[2026-02-06 11:27:34] profile.py(255) :   - _kwargs: {}
+[2026-02-06 11:27:34] profile.py(255) :   - _cumulative_error: 0
+[2026-02-06 11:27:34] profile.py(256) : ====================================================================
+[2026-02-06 11:27:34] profile.py(257) : Problem Parameters
+[2026-02-06 11:27:34] profile.py(258) : --------------------------------------------------------------------
+[2026-02-06 11:27:34] profile.py(259) :   - Problem: TSPEval
+[2026-02-06 11:27:34] profile.py(262) :   - task_description: 
+[2026-02-06 11:27:34] profile.py(262) :   - use_numba_accelerate: False
+[2026-02-06 11:27:34] profile.py(262) :   - use_protected_div: False
+[2026-02-06 11:27:34] profile.py(262) :   - protected_div_delta: 1e-05
+[2026-02-06 11:27:34] profile.py(262) :   - random_seed: None
+[2026-02-06 11:27:34] profile.py(262) :   - timeout_seconds: 20
+[2026-02-06 11:27:34] profile.py(262) :   - exec_code: True
+[2026-02-06 11:27:34] profile.py(262) :   - safe_evaluate: True
+[2026-02-06 11:27:34] profile.py(262) :   - daemon_eval_process: False
+[2026-02-06 11:27:34] profile.py(262) :   - fork_proc: auto
+[2026-02-06 11:27:34] profile.py(264) : ====================================================================
+[2026-02-06 11:27:34] profile.py(265) : Method Parameters
+[2026-02-06 11:27:34] profile.py(266) : --------------------------------------------------------------------
+[2026-02-06 11:27:34] profile.py(267) :   - Method: EoH
+[2026-02-06 11:27:34] profile.py(271) :   - _max_generations: 10
+[2026-02-06 11:27:34] profile.py(271) :   - _max_sample_nums: 20
+[2026-02-06 11:27:34] profile.py(271) :   - _pop_size: 5
+[2026-02-06 11:27:34] profile.py(271) :   - _selection_num: 2
+[2026-02-06 11:27:34] profile.py(271) :   - _use_e2_operator: True
+[2026-02-06 11:27:34] profile.py(271) :   - _use_m1_operator: True
+[2026-02-06 11:27:34] profile.py(271) :   - _use_m2_operator: True
+[2026-02-06 11:27:34] profile.py(271) :   - _num_samplers: 1
+[2026-02-06 11:27:34] profile.py(271) :   - _num_evaluators: 1
+[2026-02-06 11:27:34] profile.py(271) :   - _resume_mode: False
+[2026-02-06 11:27:34] profile.py(271) :   - _debug_mode: False
+[2026-02-06 11:27:34] profile.py(271) :   - _multi_thread_or_process_eval: thread
+[2026-02-06 11:27:34] profile.py(271) :   - _function_to_evolve_name: select_next_node
+[2026-02-06 11:27:34] profile.py(271) :   - _tot_sample_nums: 0
+[2026-02-06 11:27:34] profile.py(271) :   - _initial_sample_nums_max: 10
+[2026-02-06 11:27:34] profile.py(271) :   - _evaluation_executor: <concurrent.futures.thread.ThreadPoolExecutor object at 0x309a03710>
+[2026-02-06 11:27:34] profile.py(273) : =====================================================================
